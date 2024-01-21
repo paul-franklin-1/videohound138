@@ -9,10 +9,5 @@ public class SimpleProg1 {
             System.out.println("Address: "+address);
             System.out.println("City: "+city);
             System.out.print("ZIP Code: "+ZIP_code);
-
-
-
-
-
     }
 }
